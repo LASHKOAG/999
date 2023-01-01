@@ -8,5 +8,7 @@ int main()
 
     cout << "second commit" << endl;
 
+    cout << "third commit" << endl;
+
     return 0;
 }
