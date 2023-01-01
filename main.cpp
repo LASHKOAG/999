@@ -4,13 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-
-    cout << "second commit" << endl;
-
-    cout << "third commit" << endl;
-
-    cout << "4th commit" << endl;
+    cout << "2_branch!" << endl;
 
     return 0;
 }
