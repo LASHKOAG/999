@@ -10,5 +10,7 @@ int main()
 
     cout << "third commit" << endl;
 
+    cout << "4th commit" << endl;
+
     return 0;
 }
